@@ -1,2 +1,9 @@
-# tiny-expense-tracker-util-78
-A simple expense tracker project
+# Expense Tracker
+
+A simple expense tracker project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
